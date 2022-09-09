@@ -1,0 +1,5 @@
+Sitemap: https://sandbp.net/sitemap.xml
+
+user-agent: *
+Allow: /
+Disallow: https://sandbp.net/about/files/Value-of-SandBP-Certificate.docx
