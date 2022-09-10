@@ -186,7 +186,7 @@
                         <a target="_blank" href="https://sandbp.net/certifications/#Business-Management">
                             <div id="certificate4" class="certificateAvail wow fadeInUp" data-wow-delay="0.2s">
                                 <p>Business Management</p>
-                                <i class="fa fa-user-secret" aria-hidden="true"></i>
+                                <i class="fa fa-bar-chart" aria-hidden="true"></i>
                             </div>
                         </a>
                         </div>
@@ -194,7 +194,7 @@
                         <a target="_blank" href="https://sandbp.net/certifications/#Audit">
                             <div id="certificate4" class="certificateAvail wow fadeInUp" data-wow-delay="0.2s">
                                 <p>Audit</p>
-                                <i class= "fa fa-user-secret" aria-hidden="true"></i>
+                                <i class="fa fa-file-text" aria-hidden="true"></i>
                             </div>
                             </a>
                         </div>
